@@ -1,4 +1,7 @@
-# api documentation for  [empty-trash (v2.1.1)](https://github.com/sindresorhus/empty-trash#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-empty-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-empty-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-empty-trash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-empty-trash)
+# npmdoc-empty-trash
+
+#### basic api documentation for  [empty-trash (v2.1.1)](https://github.com/sindresorhus/empty-trash#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-empty-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-empty-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-empty-trash.svg)](https://travis-ci.org/npmdoc/node-npmdoc-empty-trash)
+
 #### Empty the trash
 
 [![NPM](https://nodei.co/npm/empty-trash.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/empty-trash)
@@ -89,7 +92,8 @@
     "version": "2.1.1",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
